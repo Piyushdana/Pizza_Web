@@ -1,8 +1,8 @@
 # React + Vite
 
-# Fast React Pizza Co.
+# REACTPIZZAEXPRESS🍕 Co.
 
-Fast React Pizza Co. is a modern pizza ordering web application built with React JS and Tailwind CSS. Users can browse various pizzas, customize their orders, add items to their cart, and place dummy orders. The application also allows users to get their location for order delivery.
+REACTPIZZAEXPRESS🍕 Co. is a modern pizza ordering web application built with React JS and Tailwind CSS. Users can browse various pizzas, customize their orders, add items to their cart, and place dummy orders. The application also allows users to get their location for order delivery.
 
 ## Features
 
@@ -23,7 +23,7 @@ Fast React Pizza Co. is a modern pizza ordering web application built with React
 
 ## Live Demo
 
-Check out the live demo of the project: [Fast React Pizza Co.](https://yourpizza-git-main-piyushdana11-gmailcoms-projects.vercel.app/)
+Check out the live demo of the project: [REACTPIZZAEXPRESS🍕Co.](https://yourpizza-git-main-piyushdana11-gmailcoms-projects.vercel.app/)
 
 ## Installation
 
