@@ -35,7 +35,7 @@ function CreateUser() {
 
       {username !== '' && (
         <div>
-          <Button type="primary">Start ordering</Button>
+          <button className=" tracking-wide rounded-full disabled:cursor-not-allowed bg-[#71AFD6] px-4 py-3 md:px-6 md:py-4">Start ordering</button>
         </div>
       )}
     </form>
